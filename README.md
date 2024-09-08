@@ -53,7 +53,6 @@ Comencé a programar hace +5 años con C++, pero desde ese entonces he trabajado
 ![Andy's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=garcia-andy&combine_all_yearly_contributions=true&theme=dracula)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=garcia-andy.garcia-andy)
-[![Profile last updated](https://img.shields.io/github/last-commit/garcia-andy/garcia-andy/master?label=Last%20updated&style=flat)](https://github.com/garcia-andy/garcia-andy/commits)
 
 
 <!--START_SECTION:activity-->
