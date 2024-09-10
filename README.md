@@ -19,6 +19,9 @@ Comencé a programar hace +5 años con C++, pero desde ese entonces he trabajado
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+## Listo para la MiduConf 2024!
+![Rust Ticket Miduconf](https://github.com/garcia-andy/garcia-andy/blob/main/rust-ticket.jpeg?raw=true)
+
 ### Proyectos:
 - Gestor de alias en terminales de linux [aliasman-rs](https://github.com/garcia-andy/aliasman-rs) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=garcia-andy.aliasman-rs)
 - Programa para enviar emails en cascada utilizando datos de un excell [cascade-email-rs](https://github.com/garcia-andy/cascade-email-rs) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=garcia-andy.cascade-email-rs)
