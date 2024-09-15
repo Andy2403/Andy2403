@@ -59,9 +59,9 @@ Comencé a programar hace +5 años con C++, pero desde ese entonces he trabajado
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Luis-Pazos-JS/cujae-dijkstra/pull/1) in [Luis-Pazos-JS/cujae-dijkstra](https://github.com/Luis-Pazos-JS/cujae-dijkstra)
-2. 🗣 Commented on [#21](https://github.com/iced-rs/iced/issues/21#issuecomment-2336509657) in [iced-rs/iced](https://github.com/iced-rs/iced)
-3. 🗣 Commented on [#21](https://github.com/iced-rs/iced/issues/21#issuecomment-2329523633) in [iced-rs/iced](https://github.com/iced-rs/iced)
-4. 🚀 Published release [1.2](https://github.com/garcia-andy/aliasman-rs/releases/tag/1.2) in [garcia-andy/aliasman-rs](https://github.com/garcia-andy/aliasman-rs)
-5. 🚀 Published release [1.1.3](https://github.com/garcia-andy/aliasman-rs/releases/tag/1.1.3) in [garcia-andy/aliasman-rs](https://github.com/garcia-andy/aliasman-rs)
+1. 💪 Opened PR [#2](https://github.com/Luis-Pazos-JS/cujae-dijkstra/pull/2) in [Luis-Pazos-JS/cujae-dijkstra](https://github.com/Luis-Pazos-JS/cujae-dijkstra)
+2. 💪 Opened PR [#1](https://github.com/Luis-Pazos-JS/cujae-dijkstra/pull/1) in [Luis-Pazos-JS/cujae-dijkstra](https://github.com/Luis-Pazos-JS/cujae-dijkstra)
+3. 🗣 Commented on [#21](https://github.com/iced-rs/iced/issues/21#issuecomment-2336509657) in [iced-rs/iced](https://github.com/iced-rs/iced)
+4. 🗣 Commented on [#21](https://github.com/iced-rs/iced/issues/21#issuecomment-2329523633) in [iced-rs/iced](https://github.com/iced-rs/iced)
+5. 🚀 Published release [1.2](https://github.com/garcia-andy/aliasman-rs/releases/tag/1.2) in [garcia-andy/aliasman-rs](https://github.com/garcia-andy/aliasman-rs)
 <!--END_SECTION:activity-->
