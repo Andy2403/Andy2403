@@ -57,9 +57,9 @@ Comencé a programar hace +5 años con C++, pero desde ese entonces he trabajado
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/iced-rs/iced/issues/21#issuecomment-2360280009) in [iced-rs/iced](https://github.com/iced-rs/iced)
-2. 💪 Opened PR [#2](https://github.com/Luis-Pazos-JS/cujae-dijkstra/pull/2) in [Luis-Pazos-JS/cujae-dijkstra](https://github.com/Luis-Pazos-JS/cujae-dijkstra)
-3. 💪 Opened PR [#1](https://github.com/Luis-Pazos-JS/cujae-dijkstra/pull/1) in [Luis-Pazos-JS/cujae-dijkstra](https://github.com/Luis-Pazos-JS/cujae-dijkstra)
-4. 🗣 Commented on [#21](https://github.com/iced-rs/iced/issues/21#issuecomment-2336509657) in [iced-rs/iced](https://github.com/iced-rs/iced)
-5. 🗣 Commented on [#21](https://github.com/iced-rs/iced/issues/21#issuecomment-2329523633) in [iced-rs/iced](https://github.com/iced-rs/iced)
+1. 🗣 Commented on [#17771](https://github.com/zed-industries/zed/issues/17771#issuecomment-2384720284) in [zed-industries/zed](https://github.com/zed-industries/zed)
+2. 🗣 Commented on [#21](https://github.com/iced-rs/iced/issues/21#issuecomment-2360280009) in [iced-rs/iced](https://github.com/iced-rs/iced)
+3. 💪 Opened PR [#2](https://github.com/Luis-Pazos-JS/cujae-dijkstra/pull/2) in [Luis-Pazos-JS/cujae-dijkstra](https://github.com/Luis-Pazos-JS/cujae-dijkstra)
+4. 💪 Opened PR [#1](https://github.com/Luis-Pazos-JS/cujae-dijkstra/pull/1) in [Luis-Pazos-JS/cujae-dijkstra](https://github.com/Luis-Pazos-JS/cujae-dijkstra)
+5. 🗣 Commented on [#21](https://github.com/iced-rs/iced/issues/21#issuecomment-2336509657) in [iced-rs/iced](https://github.com/iced-rs/iced)
 <!--END_SECTION:activity-->
