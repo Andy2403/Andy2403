@@ -1,7 +1,7 @@
 ## Andy aquí 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Andy2403&color=blue)
-[![Gmail Badge](https://img.shields.io/badge/-agf030124@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:agf030124@gmail.com)](mailto:agf030124@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-agf030124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agf030124@gmail.com)](mailto:agf030124@gmail.com)
 
 Hola, soy un estudiante de Informática de la CUJAE (Cuba) apasionado por la programación. y en constante crecimiento.
 Comencé a programar hace +5 años con C++.
@@ -14,7 +14,7 @@ Comencé a programar hace +5 años con C++.
 </a>
 
 ### Tecnologías y Lenguajes con los que he trabajado
-![Zed](https://img.shields.io/badge/Zed%20Lover!?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed%20Lover?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
