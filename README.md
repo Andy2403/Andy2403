@@ -14,7 +14,7 @@ Comencé a programar hace +5 años con C++.
 </a>
 
 ### Tecnologías y Lenguajes con los que he trabajado
-![Zed](https://img.shields.io/badge/Zed%20Lover?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed%20Lover-blue?style=for-the-badge&logo=zedindustries&logoColor=white&color=222)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
