@@ -16,15 +16,15 @@ Comencé a programar hace +5 años con C++.
 ### Tecnologías y Lenguajes con los que he trabajado
 ![Zed](https://img.shields.io/badge/Zed%20Lover-%20?style=for-the-badge&logo=zedindustries&logoColor=white&color=black)
 ![Rust](https://img.shields.io/badge/rust-%20?style=for-the-badge&logo=rust&logoColor=white&color=111)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=333)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=for-the-badge)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,9 +36,6 @@ Comencé a programar hace +5 años con C++.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy2403&hide=java&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Andy2403&theme=dracula)](https://git.io/streak-stats)
-![Andy's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Andy2403&combine_all_yearly_contributions=true&theme=dracula)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Andy2403.Andy2403)
 
 
 <!--START_SECTION:activity-->
