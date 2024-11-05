@@ -39,5 +39,5 @@ Comencé a programar hace +5 años con C++.
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/garcia-andy/aliasman-rs/pull/2) in [garcia-andy/aliasman-rs](https://github.com/garcia-andy/aliasman-rs)
+1. 🚀 Published release [v1.2.5](https://github.com/Andy2403/aliasman-rs/releases/tag/v1.2.5) in [Andy2403/aliasman-rs](https://github.com/Andy2403/aliasman-rs)
 <!--END_SECTION:activity-->
