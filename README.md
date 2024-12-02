@@ -3,8 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Andy2403&color=blue)
 [![Gmail Badge](https://img.shields.io/badge/-agf030124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agf030124@gmail.com)](mailto:agf030124@gmail.com)
 
-Hola, soy un estudiante de Informática de la CUJAE (Cuba) apasionado por la programación. y en constante crecimiento.
-Comencé a programar hace +5 años con C++.
+Hola, soy un estudiante de Informática de la CUJAE (Cuba) apasionado por la programación.
+Comencé a programar hace +6 años.
 
 ### Proyectos:
 - Gestor de alias en terminales de linux [aliasman-rs](https://github.com/Andy2403/aliasman-rs) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Andy2403.aliasman-rs)
